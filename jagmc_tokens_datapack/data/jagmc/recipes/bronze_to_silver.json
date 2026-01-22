@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:paper",
+      "components": {
+        "minecraft:custom_model_data": 1,
+        "minecraft:custom_name": "{\"text\":\"Bronze JAG Token\",\"italic\":false}"
+      }
+    }
+  },
+  "result": {
+    "id": "minecraft:paper",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": 2,
+      "minecraft:custom_name": "{\"text\":\"Silver JAG Token\",\"italic\":false}"
+    }
+  }
+}
