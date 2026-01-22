@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper",
+      "components": {
+        "minecraft:custom_model_data": 3,
+        "minecraft:custom_name": "{\"text\":\"Gold JAG Token\",\"italic\":false}"
+      }
+    }
+  ],
+  "result": {
+    "id": "minecraft:paper",
+    "count": 9,
+    "components": {
+      "minecraft:custom_model_data": 2,
+      "minecraft:custom_name": "{\"text\":\"Silver JAG Token\",\"italic\":false}"
+    }
+  }
+}
